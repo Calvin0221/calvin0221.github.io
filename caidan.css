@@ -1,0 +1,13 @@
+ul {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+  }
+  body {
+    margin-top: 40px; /* 调整内容容器的上边距，确保内容不会被菜单栏遮挡 */
+  }  
